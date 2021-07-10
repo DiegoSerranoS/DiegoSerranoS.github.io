@@ -64,6 +64,94 @@ El proveedor de servicios en la nube administra todos los aspectos del entorno d
 
 Permite que los desarrolladores creen aplicaciones más rápidamente, ya que elimina la necesidad de administrar la infraestructura. En las aplicaciones sin servidor, el proveedor de servicios en la nube aprovisiona, escala y administra automaticamente la infraestructura necesaria para ejecutar el código.
 
+**Recusos**
+
+ Instancias de servicios que puede crear, como máquinas virtuales, almacenamiento o bases de datos SQL.
+ 
+**Grupos de recursos**
+
+Se combinan en grupos de recursos, que actúan como contenedor lógico en el que se implementan y administran recursos de Azure como aplicaciones web, bases de datos y cuentas de almacenamiento.
+
+**Suscripciones**
+
+Agrupa las cuentas de usuario y los recursos que han creado esas cuentas de usuario. Para cada suscripción, hay límites o cuotas en la cantidad de recursos que se pueden crear y usar. 
+
+**Grupos de administración**
+
+Ayudan a administrar el acceso, las directivas y el cumplimiento de varias suscripciones. Todas las suscripciones de un grupo de administración heredan automáticamente las condiciones que se aplican al grupo de administración.
+
+**Región**
+
+Es un área geográfica del planeta que contiene al menos un centro de datos, podrían ser  varios centros de datos cercanos y conectados mediante una red de baja latencia.
+
+**Azure Active Directory**
+
+Es básicamente un servicio de administración de identidades basado en el cloud de Microsoft. Nos permitirá crear usuarios y grupos para acceder a Microsoft 365 y a otras Aplicaciones SaaS (Software as a Service).
+
+**Azure Traffic Manager*
+
+Opera en la capa de DNS para dirigir de manera rápida y eficiente las solicitudes de DNS entrantes según el método de enrutamiento que elija el usuario. 
+
+**Zona de disponibilidad**
+
+Las zonas de disponibilidad son centros de datos separados físicamente dentro de una región de Azure. Cada zona de disponibilidad consta de uno o varios centros de datos equipados con alimentación, refrigeración y redes independientes.
+
+**Servicios de zona**
+
+Ancle el recurso a una zona específica (por ejemplo, máquinas virtuales, discos administrados, direcciones IP).
+
+**Servicios de redundancia de zona**
+
+La plataforma se replica automáticamente entre zonas (por ejemplo, almacenamiento con redundancia de zona, SQL Database).
+
+**Pares de regiones de Azure**
+
+Se crean usando uno o varios centros de datos. Hay un mínimo de tres zonas en una sola región. Es posible que un desastre grande pueda provocar una interrupción tan grave como para afectar incluso a dos centros de datos. Por eso Azure también crea pares de regiones.
+
+**Agrupación lógica**
+
+Es el aspecto que más le interesa, ya que, entre los recursos, el desorden es elevado.
+
+**Azure Resource Manager**
+
+Es el servicio de implementación y administración para Azure. Proporciona una capa de administración que le permite crear, actualizar y eliminar recursos de la cuenta de Azure.
+
+**Suscripciones de Azure**
+
+Una suscripción le proporciona acceso autenticado y autorizado a los servicios y productos de Azure. Además, también le permite aprovisionar los recursos. Una suscripción de Azure es una unidad lógica de servicios de Azure que está vinculada a una cuenta de Azure.
+
+**Azure Virtual Machines**
+
+Es  la infraestructura como servicio (IaaS) de Azure que se usa para implementar máquinas virtuales persistentes con casi cualquier carga de trabajo de servidor de VM que desee.
+
+**Máquinas virtuales**
+
+Son emulaciones de software de equipos físicos. Incluyen un procesador virtual, memoria, almacenamiento y recursos de red. Hospedan un sistema operativo, y se puede instalar y ejecutar software, al igual que en un equipo físico. 
+
+**Containers y Kubernetes**
+
+Son recursos de Azure Compute que puede usar para implementar contenedores y administrarlos. Los contenedores son entornos de aplicación ligeros y virtualizados. Están diseñados para crearse, escalarse horizontalmente y detenerse dinámicamente de forma rápida.
+
+**Azure App Service**
+
+Es un servicio de alojamiento web totalmente administrado que permite crear aplicaciones web, back-ends móviles y API RESTful. Desde sitios web pequeños hasta aplicaciones web con una escala global, existen opciones de precios y rendimiento que se adaptan a todas las necesidades.
+
+**Azure Batch**
+
+Permite trabajo por lotes paralelos a gran escala y de informática de alto rendimiento (HPC) con la capacidad de escalar a decenas, cientos o miles de máquinas virtuales.
+
+**Aplicaciones web**
+
+Incluye compatibilidad completa para hospedar aplicaciones web mediante ASP.NET, ASP.NET Core, Java, Ruby, Node.js, PHP o Python. Puede elegir Windows o Linux como sistema operativo del host.
+
+**Aplicaciones de API**
+
+Las aplicaciones producidas se pueden consumir desde cualquier cliente basado en HTTP o HTTPS.
+
+**Trabajos web**
+
+Se puede usar la característica WebJobs para ejecutar un programa (.exe, Java, PHP, Python o Node.js) o un script (.cmd, .bat, PowerShell o Bash) en el mismo contexto que una aplicación web, aplicación de API o aplicación móvil. 
+
 
 
 ###  *Palabras usadas con frecuencia*
