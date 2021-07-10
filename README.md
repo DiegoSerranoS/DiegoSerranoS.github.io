@@ -205,7 +205,14 @@ Es un servicio completo de orquestación para contenedores con arquitecturas dis
 *IoT Central*| Solución Global de software como servicio (SaaS) de IoT totalmente administrada que facilia la conexión, la supervición y la administración de los recursos de IoT a escala
 *HTTP* |  el protocolo HTTP es el código o lenguaje en el que el navegador le comunica al servidor qé página quiere visualizar.
 *Windows* |  La función principal de Windows es servir como puente entre la persona y la maquina, facilitando así la conexión entre ambos y el mensaje que se quiere dar a entender.
-
+* Web*|Permiten la interacción con el usuario. Las páginas Web cumplen básicamente con la tarea de brindar información de cualquier índole y en cualquier estilo o grado de formalidad.
+*  RBAC*|Se traduce como “control de acceso basado en roles”. Este modelo de seguridad permite asignar funciones y autorizaciones en la infraestructura informática de una organización.
+*  Azure AD*|Es un servicio de administración de identidades y acceso basado en la nube de Microsoft que ayuda a los empleados a iniciar sesión y acceder a recursos .
+*  WordPress*|Es un sistema de gestión de contenidos web (CMS o content management system), que en pocas palabras es un sistema para publicar contenido en la web de forma sencilla. 
+*  Python*|Las funciones en Python se crean usando la palabra clave def , seguida de un nombre de función y parámetros de función entre paréntesis. 
+*  Java*|Java es un lenguaje de programación y una plataforma informática comercializada por primera vez en 1995 por Sun Microsystems. ... Java es rápido, seguro y fiable. 
+*  software*|Conjunto de programas encargados de gestionar el hardware de un sistema; así como de aportar una interfaz para comunicarse con el usuario final de dicho sistema.
+*  API*| API significa interfaz de programación de aplicaciones. Las API permiten que sus productos y servicios se comuniquen con otros, sin necesidad de saber cómo están implementados.
 
 
 ```markdown
