@@ -88,7 +88,7 @@ Es un área geográfica del planeta que contiene al menos un centro de datos, po
 
 Es básicamente un servicio de administración de identidades basado en el cloud de Microsoft. Nos permitirá crear usuarios y grupos para acceder a Microsoft 365 y a otras Aplicaciones SaaS (Software as a Service).
 
-**Azure Traffic Manager*
+**Azure Traffic Manager**
 
 Opera en la capa de DNS para dirigir de manera rápida y eficiente las solicitudes de DNS entrantes según el método de enrutamiento que elija el usuario. 
 
