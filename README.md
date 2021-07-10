@@ -152,6 +152,22 @@ Las aplicaciones producidas se pueden consumir desde cualquier cliente basado en
 
 Se puede usar la característica WebJobs para ejecutar un programa (.exe, Java, PHP, Python o Node.js) o un script (.cmd, .bat, PowerShell o Bash) en el mismo contexto que una aplicación web, aplicación de API o aplicación móvil. 
 
+**Aplicaciones móviles**
+
+Use la característica Mobile Apps de App Service a fin de compilar rápidamente un back-end para aplicaciones iOS y Android. Con unos pocos clics en Azure Portal.
+
+**Contenedores**
+
+Son un entorno de virtualización. Al igual que la ejecución de varias máquinas virtuales en un solo host físico, se pueden ejecutar varios contenedores en un solo host físico o virtual. 
+
+**Azure Container Instances**
+
+Ofrece la forma más rápida y sencilla de ejecutar un contenedor en Azure, sin tener que administrar ninguna máquina virtual o adoptar ningún servicio adicional.
+
+**Azure Kubernetes Service**
+
+Es un servicio completo de orquestación para contenedores con arquitecturas distribuidas y grandes volúmenes de contenedores.
+
 
 
 ###  *Palabras usadas con frecuencia*
@@ -187,7 +203,8 @@ Se puede usar la característica WebJobs para ejecutar un programa (.exe, Java, 
 *Azure Database for MySQL*| Base de datos relacional MySQL totalmente administrada y escalable con alta disponibilidad y seguridad
 *SQL Server en Azure Virtual Machines*| Servicio que hospeda aplicaciones empresariales de SQL Server en la nube
 *IoT Central*| Solución Global de software como servicio (SaaS) de IoT totalmente administrada que facilia la conexión, la supervición y la administración de los recursos de IoT a escala
-
+*HTTP* |  el protocolo HTTP es el código o lenguaje en el que el navegador le comunica al servidor qé página quiere visualizar.
+*Windows* |  La función principal de Windows es servir como puente entre la persona y la maquina, facilitando así la conexión entre ambos y el mensaje que se quiere dar a entender.
 
 
 
