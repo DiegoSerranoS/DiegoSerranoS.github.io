@@ -96,16 +96,19 @@ Es un área geográfica del planeta que contiene al menos un centro de datos, po
 **Azure Active Directory**
 
 Es básicamente un servicio de administración de identidades basado en el cloud de Microsoft. Nos permitirá crear usuarios y grupos para acceder a Microsoft 365 y a otras Aplicaciones SaaS (Software as a Service).
+
 ![azure active directory]( https://jumpcloud.com/wp-content/uploads/2018/12/cloudiamgif.gif)
 
 **Azure Traffic Manager**
 
 Opera en la capa de DNS para dirigir de manera rápida y eficiente las solicitudes de DNS entrantes según el método de enrutamiento que elija el usuario. 
+
 ![Azure Traffic Manager]( https://azurebiztalkread.files.wordpress.com/2018/03/tframe.jpg?w=340)
 
 **Zona de disponibilidad**
 
 Las zonas de disponibilidad son centros de datos separados físicamente dentro de una región de Azure. Cada zona de disponibilidad consta de uno o varios centros de datos equipados con alimentación, refrigeración y redes independientes.
+
 ![Azure]( https://azurespain.azurewebsites.net/wp-content/uploads/2018/03/Avaibility_Zones.png)
 
 **Servicios de zona**
@@ -135,6 +138,8 @@ Una suscripción le proporciona acceso autenticado y autorizado a los servicios 
 **Azure Virtual Machines**
 
 Es  la infraestructura como servicio (IaaS) de Azure que se usa para implementar máquinas virtuales persistentes con casi cualquier carga de trabajo de servidor de VM que desee.
+
+![Azure Virtiaul Machine]( https://lh3.googleusercontent.com/proxy/ATpa1KbWNZ-xrX1GcnkTUDwWpaGSgfW1NiPY2vdrgEluB7ZpH1oL-TU7XEPpp51TmnhCfrrW4eb3EQs6jWXYKUOTknSaeFTI-11my-pAoLECfb9PnEV1r3U)
 
 **Máquinas virtuales**
 
