@@ -153,6 +153,8 @@ Son emulaciones de software de equipos físicos. Incluyen un procesador virtual,
 
 Son recursos de Azure Compute que puede usar para implementar contenedores y administrarlos. Los contenedores son entornos de aplicación ligeros y virtualizados. Están diseñados para crearse, escalarse horizontalmente y detenerse dinámicamente de forma rápida.
 
+![ Containers and Kubernetes]( https://unpocodejava.files.wordpress.com/2020/01/image004.jpg)
+
 **Azure App Service**
 
 Es un servicio de alojamiento web totalmente administrado que permite crear aplicaciones web, back-ends móviles y API RESTful. Desde sitios web pequeños hasta aplicaciones web con una escala global, existen opciones de precios y rendimiento que se adaptan a todas las necesidades.
