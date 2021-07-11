@@ -96,7 +96,7 @@ Es un área geográfica del planeta que contiene al menos un centro de datos, po
 **Azure Active Directory**
 
 Es básicamente un servicio de administración de identidades basado en el cloud de Microsoft. Nos permitirá crear usuarios y grupos para acceder a Microsoft 365 y a otras Aplicaciones SaaS (Software as a Service).
-! .[Imagen Azure Active Directory]_(https://jumpcloud.com/wp-content/uploads/2018/12/cloudiamgif.gif)
+![azure active directory]( https://jumpcloud.com/wp-content/uploads/2018/12/cloudiamgif.gif)
 **Azure Traffic Manager**
 
 Opera en la capa de DNS para dirigir de manera rápida y eficiente las solicitudes de DNS entrantes según el método de enrutamiento que elija el usuario. 
