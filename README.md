@@ -1,6 +1,7 @@
 # Conceptos básicos
 
-Aquí se verá una recopilación de conceptos básicos de la nube para mejorar la retención de conocimientos.
+![imagen de azure](https://mispacecode.com/wp-content/uploads/2021/04/microsoft-azure.png)
+
 
 **Azure** 
 Es una plataforma de informática en la nube con un conjunto de servicios que se amplía continuamente para ayudar a crear soluciones que satisfagan los objetivos empresariales, dichos  servicios van desde web services sencillos para hospedar la presencia empresarial en la nube hasta  la ejecución de equipos virtualizados para soluciones de sowtware personalizadas.
@@ -11,6 +12,8 @@ Es una plataforma de informática en la nube con un conjunto de servicios que se
 
 Internet de las cosas (IoT) incluye  cualquier objeto que  pueda conectarse a una  red de internet, cosas conectadas equipadas con sensores, software y otras tecnologías que les permiten  transmitir y recibir datos.
 
+![IoT](https://www.bullardabogados.pe/boletines/2020/Boletin_especial/day25-05/images/foto4.jpg)
+
 **Espacio aislado**
 
 Suscripción temporal que se agrega a la cuenta de azure y permite crear recursos de azure para la duración de un módulo  de
@@ -19,6 +22,8 @@ Suscripción temporal que se agrega a la cuenta de azure y permite crear recurso
 **Azure Portal**
 
 Consola unificada basada en web que proporciona una alternativa a las heramientas de líneas de comandos; puede compilar, administrar y supervisar  desde aplicaciones web sencillas hasta complejas implementaciones en la nube, crear paneles personalizados y configurar opciones de accesibilidad.
+
+![Azure portal](https://tndsolutions.com/wp-content/uploads/2017/05/azure.gif)
 
 **Azure Marketplace**
 
@@ -48,6 +53,8 @@ Hacen referencia a la inversión previa de dinero en infraestructura física, qu
 
 Son dinero que se invierte en servicios o productos y se factura al instante. Este gasto se puede deducir el mismo año que se produce. No hay ningún costo previo, ya que se paga por un servicio o producto a medida que se usa.
 
+![costos azure](https://i2.wp.com/www.itwarelatam.com/wp-content/uploads/2021/04/Modelo-pago-por-uso-reduce-costos-de-hasta-el-72.png?resize=696%2C398&ssl=1)
+
 **IaaS (Infraestructura como un Servicio)**
 
 Un proveedor de servicios en la nube mantiene actualizado el hardware, pero el mantenimiento del sistema operativo y la configuracipon de la red serán responsabilidad del usuario. Una ventaja de este modelo de servicio en la nube es la rápida implementación de nuevos dispositivos de proceso 
@@ -59,6 +66,8 @@ El proveedor de servicios en la nube administra las máquinas virtuales y los re
 **SaaS (Software como un Servicio)**
 
 El proveedor de servicios en la nube administra todos los aspectos del entorno de la aplicación, tales como las máquinas virtuales, los recursos de red, el almacenamiento de datos y las aplicaciones. El usuario solo necesita proporcionar sus datos a la apliación administrativa por el proveedor de servicios en la nube.
+
+![SaaS IaaS PaaS](https://miro.medium.com/max/1191/0*41Hh9XgGbfvB5JQG.png)
 
 **Informática sin servidor**
 
@@ -214,30 +223,6 @@ Es un servicio completo de orquestación para contenedores con arquitecturas dis
 *Software* | Conjunto de programas encargados de gestionar el hardware de un sistema; así como de aportar una interfaz para comunicarse con el usuario final de dicho sistema.
 *API* | API significa interfaz de programación de aplicaciones. Las API permiten que sus productos y servicios se comuniquen con otros, sin necesidad de saber cómo están implementados.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DiegoSerranoS/DiegoSerranoS.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
