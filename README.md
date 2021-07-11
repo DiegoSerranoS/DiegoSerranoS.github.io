@@ -81,6 +81,8 @@ Permite que los desarrolladores creen aplicaciones más rápidamente, ya que eli
 
 Se combinan en grupos de recursos, que actúan como contenedor lógico en el que se implementan y administran recursos de Azure como aplicaciones web, bases de datos y cuentas de almacenamiento.
 
+![ grupos de recursos azure]( https://docs.microsoft.com/es-es/azure/cloud-adoption-framework/ready/azure-setup-guide/media/organize-resources/scope-levels.png)
+
 **Suscripciones**
 
 Agrupa las cuentas de usuario y los recursos que han creado esas cuentas de usuario. Para cada suscripción, hay límites o cuotas en la cantidad de recursos que se pueden crear y usar. 
@@ -130,6 +132,8 @@ Es el aspecto que más le interesa, ya que, entre los recursos, el desorden es e
 **Azure Resource Manager**
 
 Es el servicio de implementación y administración para Azure. Proporciona una capa de administración que le permite crear, actualizar y eliminar recursos de la cuenta de Azure.
+
+![ Azure Resource Manager]( https://docs.microsoft.com/es-es/azure/azure-resource-manager/templates/media/overview/tier-templates.png)
 
 **Suscripciones de Azure**
 
