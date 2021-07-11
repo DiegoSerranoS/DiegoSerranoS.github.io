@@ -157,6 +157,8 @@ Es un servicio de alojamiento web totalmente administrado que permite crear apli
 
 Permite trabajo por lotes paralelos a gran escala y de informática de alto rendimiento (HPC) con la capacidad de escalar a decenas, cientos o miles de máquinas virtuales.
 
+![Azure Batch]( https://www.returngis.net/wp-content/uploads/2016/01/Azure-Batch-Logo.png)
+
 **Aplicaciones web**
 
 Incluye compatibilidad completa para hospedar aplicaciones web mediante ASP.NET, ASP.NET Core, Java, Ruby, Node.js, PHP o Python. Puede elegir Windows o Linux como sistema operativo del host.
@@ -180,6 +182,8 @@ Son un entorno de virtualización. Al igual que la ejecución de varias máquina
 **Azure Container Instances**
 
 Ofrece la forma más rápida y sencilla de ejecutar un contenedor en Azure, sin tener que administrar ninguna máquina virtual o adoptar ningún servicio adicional.
+
+![Azure Azure container instances]( https://rodrigopb.files.wordpress.com/2020/09/azurecontainerinstanceslogo.png)
 
 **Azure Kubernetes Service**
 
